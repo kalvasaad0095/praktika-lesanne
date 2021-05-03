@@ -1,0 +1,14 @@
+
+
+Kahjuks polnud varem kokku puutunud Maven, Eclipse IDE või IntelliJ IDE-dega. 
+
+Kuna mul eelnevalt puudus kokkupuude nende programmidega, siis esmalt kulus mul paar päeva selleks, et 
+näiteks Eclipse programm täielikult seadistada ning vajalikud rakendused importida ning neid ka edukalt 
+Localhostis jooksutada. Oma lahenduskäiguga jäin täielikult jänni ning mingit muudatust, rääkimata täielikust
+lahendusest ma leida ei suutnud. Kogu aeg, mis kulus mul selle ülesande lahenduse otsimiseks oli ca. 6-8 tundi.
+
+Ometi otsustasin mitte alla anda ning ehitada ise sarnase funktsiooniga rakendus, kasutades Vue-d ning Vuetify-d.
+Kuna mul on eelnevalt Vue-s ehitamise kogemus olemas, siis ei vajanudki mingit välist abi selleks. Kogu kulunud
+aeg - Vue projekti + Vuetify installeerimine, programmeerimine ning ehitamine - 1,5 tundi.
+
+Mõistan täielikult, et minu lahenduskäik polnud ehk see, mida ootasite. 
